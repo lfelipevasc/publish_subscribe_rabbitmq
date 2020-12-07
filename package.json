@@ -1,0 +1,22 @@
+{
+  "name": "publish_subscribe_rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfelipevasc/publish_subscribe_rabbitmq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfelipevasc/publish_subscribe_rabbitmq/issues"
+  },
+  "homepage": "https://github.com/lfelipevasc/publish_subscribe_rabbitmq#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
